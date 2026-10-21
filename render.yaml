@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: nirmal-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
