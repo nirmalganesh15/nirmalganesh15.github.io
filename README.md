@@ -3,7 +3,7 @@
 A single-file static site (`index.html`): no build step, no dependencies.
 
 Features: interactive terminal (type `help`), animated neural-network background,
-curiosity timeline, AI exploration cards, side projects, and a clickable luck formula.
+curiosity timeline, AI exploration cards, learning prototypes, and a clickable luck formula.
 Light/dark theme toggle included.
 
 ## Run locally
